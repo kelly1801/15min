@@ -1,5 +1,3 @@
-Sure, here's an updated version of the README file that includes the pull request format and the updated project name:
-
 # 15min
 
 15min is an open source video conferencing app designed to encourage short and productive meetings. The app allows users to create meetings that are limited to 15 minutes, ensuring that discussions stay focused and on track.
@@ -51,8 +49,6 @@ cd backend && python manage.py runserver
 ```
 
 4. Visit [http://localhost:3000](http://localhost:3000) to use the app.
-
-Sure, here's an example contribution guide in markdown format:
 
 # Contribution Guide
 

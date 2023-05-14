@@ -21,6 +21,8 @@ For guidelines on front-end and back-end development, please see the following R
 - [Front-end Style Guide](frontend/STYLE_GUIDE.md)
 - [Back-end Style Guide](backend/STYLE_GUIDE.md)
 
+
+
 ## Getting Started
 
 To get started with 15min, follow these steps:
@@ -50,36 +52,34 @@ cd backend && python manage.py runserver
 
 4. Visit [http://localhost:3000](http://localhost:3000) to use the app.
 
-## Contributing
+Sure, here's an example contribution guide in markdown format:
 
-We welcome contributions to 15min! To contribute, follow these steps:
+# Contribution Guide
 
-1. Fork the repository to your GitHub account.
+Thank you for considering contributing to our project! We appreciate your time and effort in making our project better.
 
-2. Clone the forked repository to your local machine:
+## Reporting Bugs
 
-```
-git clone https://github.com/your-username/15min.git
-```
+If you find a bug in our project, please report it by creating a new issue in our issue tracker. Please include as much detail as possible about the bug, including steps to reproduce it and any error messages you may have received.
 
-3. Create a new branch for your changes:
+## Suggesting Features
 
-```
-git checkout -b my-feature-branch
-```
+If you have an idea for a new feature or improvement to our project, please let us know by creating a new issue in our issue tracker. Please provide as much detail as possible about the feature, including any relevant use cases and examples.
 
-4. Make your changes and commit them:
+## Contributing Code
 
-```
-git add .
-git commit -m "Added my feature"
-```
+We welcome contributions of code to our project. To contribute code, please follow these steps:
 
-5. Push your changes to your forked repository:
+1. Fork the repository and create a new branch for your changes.
+2. Make your changes to the code.
+3. Write tests to ensure your changes work as intended.
+4. Submit a pull request with your changes.
 
-```
-git push origin my-feature-branch
-```
+Please ensure that your code follows our coding standards and style guide. Also, please ensure that any new code is thoroughly tested and does not break existing functionality.
+
+## Code of Conduct
+
+We expect all contributors to our project to follow our code of conduct, which can be found in the CODE_OF_CONDUCT.md file in our repository.
 
 6. Create a pull request on the main repository to merge your changes. Please follow this format for your pull request title:
 

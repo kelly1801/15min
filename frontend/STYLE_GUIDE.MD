@@ -78,6 +78,21 @@ A component should depend on abstractions rather than concretions.
 - Place reusable logic in custom hooks
 - Use descriptive names for custom hooks
 
+# Guidelines for Testing in the Frontend
+
+1. Write unit tests for components, custom hooks, and utility functions.
+2. Use a testing framework like Jest or React Testing Library.
+3. Make sure tests are easy to read and understand by using descriptive names and comments.
+4. Test both positive and negative scenarios.
+5. Use mocks or stubs for external dependencies like API calls.
+6. Use snapshot testing for visual regressions.
+7. Test accessibility using tools like Axe or Pa11y.
+8. Use code coverage tools to ensure that all code paths are tested.
+9. Use Continuous Integration (CI) tools to automatically run tests on every commit.
+10. Write end-to-end tests for critical user flows using tools like Cypress or Selenium.
+
+Remember that testing is an important part of the development process, and it can save time and effort in the long run by catching bugs and regressions early on.
+
 ## Pull Request Format
 When creating a pull request, please follow this format:
 
